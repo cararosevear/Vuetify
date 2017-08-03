@@ -16,7 +16,9 @@ Vue.use(VueResource)
 /* eslint-disable no-new */
 new Vue({
   el: '#app',
-  firebase: {users: firebase.database.ref('users')},
+  firebase: {
+    userlist: firebase.database.ref('users').orderByChild('id')
+  },
   router,
   template: '<App/>',
   components: { App }

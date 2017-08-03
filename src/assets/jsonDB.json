@@ -1,0 +1,96 @@
+{
+  "counter": 1,
+  "users": {
+    "rec1": {
+            "id": 1,
+			"first_name": "Harrison",
+			"last_name": "Ford",
+			"email": "cararosevear@sympatico.cs",
+			"accepted": false,
+			"sent_times": 1, 
+			"sent_date": 1501635523
+            },  
+    "rec2":{
+            "id": 2,
+			"first_name": "Frank",
+			"last_name": "Oz",
+			"email": "cararosevear@sympatico.cs",
+			"accepted": false,
+			"sent_times": 0, 
+			"sent_date": null
+            },  
+    "rec3":{
+            "id": 3,
+			"first_name": "Samantha",
+			"last_name": "Fox",
+			"email": "cararosevear@sympatico.cs",
+			"accepted": true,
+			"sent_times": 1, 
+			"sent_date": 1500249600
+            },  
+    "rec4":{
+            "id": 4,
+			"first_name": "Carla",
+			"last_name": "Young",
+			"email": "cararosevear@sympatico.cs",
+			"accepted": false,
+			"sent_times": 0, 
+			"sent_date": null
+          },
+	"rec5":{
+            "id": 5,
+			"first_name": "Isabelle",
+			"last_name": "Baker",
+			"email": "cararosevear@sympatico.cs",
+			"accepted": false,
+			"sent_times": 0, 
+			"sent_date": null
+          }
+	"rec6":{
+            "id": 6,
+			"first_name": "Johnathan",
+			"last_name": "Scott",
+			"email": "cararosevear@sympatico.cs",
+			"accepted": false,
+			"sent_times": 0, 
+			"sent_date": null
+          }	  
+	"rec7":{
+            "id": 7,
+			"first_name": "Mark",
+			"last_name": "Hamil",
+			"email": "cararosevear@sympatico.cs",
+			"accepted": false,
+			"sent_times": 0, 
+			"sent_date": null
+          }	  
+	"rec8":{
+            "id": 8,
+			"first_name": "Racheal",
+			"last_name": "Ray",
+			"email": "cararosevear@sympatico.cs",
+			"accepted": false,
+			"sent_times": 0, 
+			"sent_date": null
+          }	  
+	"rec9":{
+            "id": 9,
+			"first_name": "Morag",
+			"last_name": "Gallagher",
+			"email": "cararosevear@sympatico.cs",
+			"accepted": false,
+			"sent_times": 0, 
+			"sent_date": null
+          }	  
+	"rec10":{
+            "id": 10,
+			"first_name": "Megan",
+			"last_name": "Rose",
+			"email": "cararosevear@sympatico.cs",
+			"accepted": false,
+			"sent_times": 0, 
+			"sent_date": null
+          }	  
+		  
+  }
+}
